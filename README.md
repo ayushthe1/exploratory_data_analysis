@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Explorator
 
 ## Datasets
 This repository is open for Hacktoberfest contributors to analyze data  and bring their opensource skills in action.
